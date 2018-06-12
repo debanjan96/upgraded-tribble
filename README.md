@@ -1,6 +1,5 @@
-# upgraded-tribble
-MAQ Software Assignment Courses
-Microsoft Data Science EdX
+
+# Microsoft Data Science EdX
 
 1  Introduction to Data Science
 2  Querying Data with Transact-SQL
